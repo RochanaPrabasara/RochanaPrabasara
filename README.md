@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="100px" />
 </p>
 
-<h1 align="center">Hi there, I'm Rochana Herath! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center">Hi there, I'm Rochana Herath ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <h3 align="center">💻 Full Stack Developer | Java Enthusiast | Kotlin Multiplatform Explorer</h3>
 
